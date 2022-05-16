@@ -3,6 +3,6 @@ An archive of my work from CSC-148: Intro to Computer Science I, taken at Americ
 
 The primary language used is Python.
 
-Work included to date include:
+Work includes:
 * Labs
 * Homework
